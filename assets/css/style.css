@@ -1,0 +1,30 @@
+.img-person{
+    margin: 0px 0px 0px 12%;
+    padding: 5px 17px 5px 5px;
+}
+
+h1{
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-spacing: 0px;
+}
+
+.banner{
+    background: rgb(47, 224, 255); 
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+.td-img{
+    padding: 0px;
+    width: 20%;
+}
+
+a{
+    text-decoration: none;
+    color: #000000;
+}
